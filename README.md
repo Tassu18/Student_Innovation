@@ -1,4 +1,4 @@
-🕵️ Network Sniffer Application
+🕵️ Network Sniffer Application :
 A simple yet powerful Python-based Network Packet Sniffer that captures live network traffic, stores packets in a .pcap file, and analyzes them with a protocol distribution pie chart.
 This project also includes a Tkinter GUI for easy usage.
 
